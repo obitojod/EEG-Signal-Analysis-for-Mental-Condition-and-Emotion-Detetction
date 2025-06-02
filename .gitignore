@@ -1,0 +1,1 @@
+-e "data/\nmodels/\n*.h5\n*.pt\n*.pkl\n*.zip\n__pycache__/\n.ipynb_checkpoints/" 
